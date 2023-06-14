@@ -7,5 +7,7 @@ Enjoy :)
 
 ## Credits
 App Created By: EternalModz
+
 PS3 API RTM Base By: iixFi
+
 Minecraft Offsets From: UltimateCraft RTM
